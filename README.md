@@ -14,9 +14,10 @@ This project aims to forecast Walmart product sales.
 - sales_train_validation.csv
 
 ## Repository Structure
-data/
+data/raw/
+data/clean/
 notebooks/
-src/
+scripts/
 reports/
 
 ## Goals
